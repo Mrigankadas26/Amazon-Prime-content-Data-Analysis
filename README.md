@@ -1,5 +1,4 @@
 # Amazon-Prime-content-Data-Analysis
-# Amazon Prime Content Intelligence Analysis Using SQL
 
 ## Overview
 
